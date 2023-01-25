@@ -1,6 +1,3 @@
-![image](https://user-images.githubusercontent.com/13592132/160667917-7ceff27b-58ce-4aa8-b37b-6b7ede913e87.png)
-![image](https://user-images.githubusercontent.com/13592132/160668007-81aea258-bac0-4273-94fe-f0bbbc3bce44.png)
-
 ![image]( https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue )
 ![image]( https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white )
 ![image]( https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white  )
